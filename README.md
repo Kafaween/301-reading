@@ -1,9 +1,14 @@
-# Code 301 Reading Notes
-
-
+# Reading Notes 
+----------------------------------------------------------------
 
 * This is the ***Table of Content*** for the *reading material*:
 
+
+![GitHub Logo](https://www.stylist.co.uk/images/app/uploads/2016/09/21140727/gettyimages-1029935574.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress)
+
+## Code 301 - Intermediate Software Development.
+
+----------------------------------------------------------------
 
  
 

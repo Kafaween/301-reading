@@ -15,7 +15,7 @@ Hello every one my name is Abdel-rahman Kafaween and:
 | Read Part                    |       Topic name and link
 -------------------------------|-----------------------------------
 | Read-1                       | [Introduction to React and Components](https://kafaween.github.io/301-reading/read-01 )
-| Read-2                       | 
+| Read-2                       | [State and Props](https://kafaween.github.io/301-reading/read-02 )
 | Read-3                       |
 | Read-4                       |
 | Read-5                       |

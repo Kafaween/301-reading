@@ -52,3 +52,9 @@ When we change the state of that component the comopnent gets rerendered.
 What are some examples of things that we could store in state?
 
 input elment check-box select-box
+
+
+
+
+
+## Things I want to know more about

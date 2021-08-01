@@ -74,7 +74,7 @@ Hello every one my name is Abdel-rahman Kafaween and:
 | Read-3                       | [Passing Functions as Props](https://kafaween.github.io/301-reading/read-03 )
 | Read-4                       | [React and Forms](https://kafaween.github.io/301-reading/read-04 )
 | Read-5                       | [Putting it all together](https://kafaween.github.io/301-reading/read-05 )
-| Read-6                       |
+| Read-6                       | [NODE.JS](https://kafaween.github.io/301-reading/read-06 )
 | Read-7                       |
 | Read-8                       |
 | Read-9                       |

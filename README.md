@@ -79,7 +79,7 @@ Hello every one my name is Abdel-rahman Kafaween and:
 | Read-8                       | [APIs](https://kafaween.github.io/301-reading/read-08 )
 | Read-9                       | [FUNCTIONAL PROGRAMMING](https://kafaween.github.io/301-reading/read-08 )
 | Read-10                      |
-| Read-11                      |
+| Read-11                      | [Authentication](https://kafaween.github.io/301-reading/read-11 )
 | Read-12                      |
 | Read-13                      |
 | Read-14                      |

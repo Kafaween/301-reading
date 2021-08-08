@@ -75,7 +75,7 @@ Hello every one my name is Abdel-rahman Kafaween and:
 | Read-4                       | [React and Forms](https://kafaween.github.io/301-reading/read-04 )
 | Read-5                       | [Putting it all together](https://kafaween.github.io/301-reading/read-05 )
 | Read-6                       | [NODE.JS](https://kafaween.github.io/301-reading/read-06 )
-| Read-7                       |
+| Read-7                       | [REST](https://kafaween.github.io/301-reading/read-07 )
 | Read-8                       |
 | Read-9                       |
 | Read-10                      |

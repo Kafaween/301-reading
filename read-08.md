@@ -1,21 +1,49 @@
-**Functional Programming Concepts**
+## What does REST stand for?
 
-## What is functional programming?
+Representational State Transfer
 
-programming paradigm a style of building the structure and elements of computer programs.
+## REST APIs are designed around a resources.
 
-## What is a pure function and how do we know if something is a pure function?
+## What is an identifer of a resource? Give an example.
 
-It returns the same result if given the same arguments.
+URI that uniquely identifies that resource. For example, the URI for a particular customer order might be:
 
-## What are the benefits of a pure function?
 
-The code’s definitely easier to test. We don’t need to mock anything. So we can unit test pure functions with different contexts:
+## What are the most common HTTP verbs?
 
-## What is immutability?
+ GET, POST, PUT, PATCH, and DELETE.
 
-Unchanging over time or unable to be changed.
+## What should the URIs be based on?
 
-## What is Referential transparency?
+hypermedia links 
 
-is the adding between pure functions and immutable data .
+## Give an example of a good URI.
+
+Stability over time
+Short
+Give the user an idea what is linked
+Easy to type
+Easy to guess (relevant only for a few links like "/jobs")
+Search engine friendly
+URI schema should be consistent over the whole site
+URI schema should allow future extensions
+
+## What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
+
+Chatty services tend to be ones that return simplified information and use more fine-grained operations. Chunky services tend to return complex hierarchies of information and use coarse operations. In other words, the difference is that chatty services require more calls than chunky services to return the same information but allow more flexibility to return only the information that is actually required.
+
+## What status code does a successful GET request return?
+
+200 - the server successfully returned the page
+
+## What status code does an unsuccessful GET request return?
+
+If not valid, 400 Bad Request is returned
+
+## What status code does a successful POST request return?
+
+ 201 status code 
+
+## What status code does a successful DELETE request return?
+
+404 

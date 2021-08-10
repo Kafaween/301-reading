@@ -77,8 +77,8 @@ Hello every one my name is Abdel-rahman Kafaween and:
 | Read-6                       | [NODE.JS](https://kafaween.github.io/301-reading/read-06 )
 | Read-7                       | [REST](https://kafaween.github.io/301-reading/read-07 )
 | Read-8                       | [APIs](https://kafaween.github.io/301-reading/read-08 )
-| Read-9                       | [FUNCTIONAL PROGRAMMING](https://kafaween.github.io/301-reading/read-08 )
-| Read-10                      |
+| Read-9                       | [FUNCTIONAL PROGRAMMING](https://kafaween.github.io/301-reading/read-09 )
+| Read-10                      | [FUNCTIONAL PROGRAMMING](https://kafaween.github.io/301-reading/read-08 )
 | Read-11                      | [Authentication](https://kafaween.github.io/301-reading/read-11 )
 | Read-12                      | [Mongo and Mongoose](https://kafaween.github.io/301-reading/read-12 )
 | Read-13                      | [CRUD](https://kafaween.github.io/301-reading/read-13 )

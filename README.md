@@ -93,7 +93,7 @@ Hello every one my name is Abdel-rahman Kafaween and:
 
 | Read Part                    |       Topic name and link
 -------------------------------|-----------------------------------
-| Read-1                       | [Java basics](https://kafaween.github.io/301-reading/read-1)
+| Read-1                       | [Java basics](https://kafaween.github.io/Reading--Notes/read-1)
 | Read-2                       | 
 | Read-3                       | 
 | Read-4                       |

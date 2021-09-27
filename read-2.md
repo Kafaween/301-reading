@@ -14,7 +14,8 @@
 
 * Alternately we can the fully qualified class name without an import.
 
-``` class ImportTest {
+``` 
+class ImportTest {
     public static void main(String[] args) {
         javax.swing.JOptionPane.showMessageDialog(null, "Hi");
         System.exit(0);
@@ -42,14 +43,17 @@
 * Do-While loop
 
 ## For Loop :A for loop is a control structure that allows us to repeat certain operations by incrementing and evaluating a loop counter.
-``` for (int i = 0; i < 5; i++) {
+
+``` 
+for (int i = 0; i < 5; i++) {
     System.out.println("Simple for loop: i = " + i);
 } 
 ```
 
 ## While Loop:The while loop is Java's most fundamental loop statement. It repeats a statement or a block of statements while its controlling Boolean-expression is true.
 
-``` int i = 0;
+``` 
+int i = 0;
 while (i < 5) {
     System.out.println("While loop: i = " + i++);
 }
@@ -57,7 +61,8 @@ while (i < 5) {
 
 ## Do-While Loop : The do-while loop works just like the while loop except for the fact that the first condition evaluation happens after the first iteration of the loop.
 
-``` int i = 0;
+``` 
+int i = 0;
 do {
     System.out.println("Do-While loop: i = " + i++);
 } while (i < 5); 

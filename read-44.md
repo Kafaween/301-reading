@@ -1,8 +1,4 @@
-# Linked Lists
 
-A **linked List** is a linear data structure and The elements in a linked are linked using pointers.
-
-![Linked Lists](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200922124319/Singly-Linked-List1.png)
 
 ## Big O’s role in algorithm efficiency is to describe the Worst Case of efficiency an algorithm can have in performing it’s job. It specifically looks at the factors mentioned above, which we often refer to as Space and Time. In order to analyze these limiting factors, we should consider 4 Key Areas for analysis:
 
@@ -10,6 +6,12 @@ A **linked List** is a linear data structure and The elements in a linked are li
 * Units of Measurement
 * Orders of Growth
 * Best Case, Worst Case, and Average Case
+
+# Linked Lists
+
+A **linked List** is a linear data structure and The elements in a linked are linked using pointers.
+
+
 
 ## Types of Linked List:
 

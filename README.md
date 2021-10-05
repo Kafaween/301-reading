@@ -100,7 +100,7 @@ Hello every one my name is Abdel-rahman Kafaween and:
 | Read-5                       | [Linked Lists](https://kafaween.github.io/Reading--Notes/read-44)
 | Read-6                       | [Inheritance and Interfaces](https://kafaween.github.io/Reading--Notes/read-6)
 | Read-7                       |
-| Read-8                       |
+| Read-8                       | [OO Design](https://kafaween.github.io/Reading--Notes/read-8)
 | Read-9                       |
 | Read-10                      |
 | Read-11                      |

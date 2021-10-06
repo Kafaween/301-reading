@@ -10,7 +10,7 @@
 
 4. When the browser gets the response, it typically renders it on screen. The HTTP request is now done.
 
-![The HTTP Request Lifecycle](https://image.slidesharecdn.com/inft132-09303webconcepts-090920164402-phpapp02/95/inft132-093-03-web-concepts-5-728.jpg?cb=1253465082)
+
 
 # Java HTTP Request example
 

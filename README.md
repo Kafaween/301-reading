@@ -109,7 +109,7 @@ Hello every one my name is Abdel-rahman Kafaween and:
 | Read-14                      | [Trees](https://kafaween.github.io/Reading--Notes/read-4-14)
 | Read-15                      |
 | Read-16                      | [Spring Authentication](https://kafaween.github.io/Reading--Notes/read-4-16)
-| Read-2                       | 
+| Read-2                       | [Spring Authorization](https://kafaween.github.io/Reading--Notes/read-4-17)
 | Read-3                       | 
 | Read-4                       |
 | Read-5                       |

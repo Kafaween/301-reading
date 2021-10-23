@@ -111,7 +111,7 @@ Hello every one my name is Abdel-rahman Kafaween and:
 | Read-16                      | [Spring Authentication](https://kafaween.github.io/Reading--Notes/read-4-16)
 | Read-2                       | [Spring Authorization](https://kafaween.github.io/Reading--Notes/read-4-17)
 | Read-3                       | [Web App Security](https://kafaween.github.io/Reading--Notes/read-4-18) 
-| Read-4                       |
+| Read-4                       | [Spring and Sockets](https://kafaween.github.io/Reading--Notes/read-4-19)
 | Read-5                       |
 | Read-6                       |
 | Read-7                       |

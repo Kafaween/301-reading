@@ -116,7 +116,7 @@ Hello every one my name is Abdel-rahman Kafaween and:
 | Read-6                       | [Intents, Activities, and SharedPreferences](https://kafaween.github.io/Reading--Notes/read-4-27)
 | Read-7                       | [RecyclerView](https://kafaween.github.io/Reading--Notes/read-4-28)
 | Read-8                       | [Room](https://kafaween.github.io/Reading--Notes/read-4-29)
-| Read-9                       |
+| Read-9                       | [Hash Tables](https://kafaween.github.io/Reading--Notes/read-4-30)
 | Read-10                      |
 | Read-11                      |
 | Read-12                      |

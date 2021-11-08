@@ -119,7 +119,7 @@ Hello every one my name is Abdel-rahman Kafaween and:
 | Read-9                       | [Hash Tables](https://kafaween.github.io/Reading--Notes/read-4-30)
 | Read-10                      | [Espresso](https://kafaween.github.io/Reading--Notes/read-4-31)
 | Read-11                      | [Serverless and Amplify](https://kafaween.github.io/Reading--Notes/read-4-32)
-| Read-12                      |
+| Read-12                      | [GraphQL @connection](https://kafaween.github.io/Reading--Notes/read-4-33)
 | Read-13                      |
 | Read-14                      |
 | Read-15                      |

@@ -125,7 +125,7 @@ Hello every one my name is Abdel-rahman Kafaween and:
 | Read-15                      | [Cognito](https://kafaween.github.io/Reading--Notes/read-4-36)
 | Read-15                      | [S3](https://kafaween.github.io/Reading--Notes/read-4-37)
 | Read-15                      | [Notifications](https://kafaween.github.io/Reading--Notes/read-4-38)
-| Read-15                      |
+| Read-15                      | [Kinesis](https://kafaween.github.io/Reading--Notes/read-4-39)
 | Read-15                      |
 | Read-15                      |
 | Read-15                      |

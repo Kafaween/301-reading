@@ -128,6 +128,6 @@ Hello every one my name is Abdel-rahman Kafaween and:
 | Read-15                      | [Kinesis](https://kafaween.github.io/Reading--Notes/read-4-39)
 | Read-15                      | [Intent Filters](https://kafaween.github.io/Reading--Notes/read-4-41)
 | Read-15                      | [Location](https://kafaween.github.io/Reading--Notes/read-4-42)
-| Read-15                      |
+| Read-15                      | [Ethics](https://kafaween.github.io/Reading--Notes/read-4-42b)
 | Read-15                      |
 
